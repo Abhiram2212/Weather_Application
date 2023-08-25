@@ -41,7 +41,7 @@ function App() {
     return (
         <>
             <div className='container text-center my-2'>
-                <h1>Weather App Using React JS</h1>
+                <h1>Weather App</h1>
                 <input
                     type="text"
                     className='from-control'
